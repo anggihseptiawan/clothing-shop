@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/anggihseptiawan/clothing-shop/static/css/main.77f3373e.chunk.css",
+    "main.js": "/anggihseptiawan/clothing-shop/static/js/main.1539b0ea.chunk.js",
+    "main.js.map": "/anggihseptiawan/clothing-shop/static/js/main.1539b0ea.chunk.js.map",
+    "runtime-main.js": "/anggihseptiawan/clothing-shop/static/js/runtime-main.b80656d9.js",
+    "runtime-main.js.map": "/anggihseptiawan/clothing-shop/static/js/runtime-main.b80656d9.js.map",
+    "static/js/2.57633bcd.chunk.js": "/anggihseptiawan/clothing-shop/static/js/2.57633bcd.chunk.js",
+    "static/js/2.57633bcd.chunk.js.map": "/anggihseptiawan/clothing-shop/static/js/2.57633bcd.chunk.js.map",
+    "index.html": "/anggihseptiawan/clothing-shop/index.html",
+    "precache-manifest.2f60f84d3d866a101be9df6b6d484f02.js": "/anggihseptiawan/clothing-shop/precache-manifest.2f60f84d3d866a101be9df6b6d484f02.js",
+    "service-worker.js": "/anggihseptiawan/clothing-shop/service-worker.js",
+    "static/css/main.77f3373e.chunk.css.map": "/anggihseptiawan/clothing-shop/static/css/main.77f3373e.chunk.css.map",
+    "static/js/2.57633bcd.chunk.js.LICENSE": "/anggihseptiawan/clothing-shop/static/js/2.57633bcd.chunk.js.LICENSE",
+    "static/media/crown.c878facf.svg": "/anggihseptiawan/clothing-shop/static/media/crown.c878facf.svg",
+    "static/media/shopping-bag.30f07071.svg": "/anggihseptiawan/clothing-shop/static/media/shopping-bag.30f07071.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b80656d9.js",
+    "static/js/2.57633bcd.chunk.js",
+    "static/css/main.77f3373e.chunk.css",
+    "static/js/main.1539b0ea.chunk.js"
+  ]
+}
